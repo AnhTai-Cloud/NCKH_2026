@@ -362,8 +362,7 @@ Các kết quả có thể gửi qua UART để Python hiển thị trên polar 
 # C. Khó khăn đang gặp
 
 # D. Công việc tiếp theo
-
-1. Xây dựng chương trình Python tạo dataset từ histogram 360 điểm.
+1. Thu data và tiến hành xây model
 2. Tự động tìm peak và cắt vùng ±X° quanh từng peak.
 3. Train và so sánh các kiến trúc MLP nhỏ.
 4. Đánh giá MAE góc, sai số amplitude và khả năng xử lý đa nguồn.
