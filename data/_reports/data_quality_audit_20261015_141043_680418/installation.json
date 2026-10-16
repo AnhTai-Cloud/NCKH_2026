@@ -1,0 +1,18 @@
+{
+  "status": "INSTALLED_VERIFIED",
+  "files_checked": 13782,
+  "rows_checked": 16216648,
+  "files_changed": 59,
+  "serialized_rows_changed": 5900,
+  "value_rows_changed": 0,
+  "value_cells_changed": 0,
+  "header_order_files": 59,
+  "native_reader_files_verified": 59,
+  "unchanged_file_features_reused_after_sha256_validation": 13723,
+  "all_original_csvs_preserved": true,
+  "all_raw_observations_preserved": true,
+  "no_rows_added_or_deleted": true,
+  "raw_metrics_before_after_equal": true,
+  "backup": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\data\\_archive\\data_quality_before_20261015_141043_680418",
+  "main_registry_after_sha256": "d3ab3779dbd265fd33eac0ddf34dc62e0cd7473a6a3902981042ab8f9d098cd4"
+}

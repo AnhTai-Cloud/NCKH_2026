@@ -1,0 +1,6 @@
+{
+  "files": 13782,
+  "includes_false_and_unmatched_directions": true,
+  "observations_edited": false,
+  "before_after_equality_basis": "All per-file semantic hashes and core observation values were verified unchanged after header-only corrections"
+}

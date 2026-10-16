@@ -1,0 +1,15 @@
+{
+  "status": "COMPLETE",
+  "gallery": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\paper\\bieu_do_du_lieu_rut_gon_20261016\\index.html",
+  "gallery_sha256": "256923e883b9bdc8a1b193143c78205eabbfb63bcf6c5929d01db4519bd47ca0",
+  "archive": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\paper\\bieu_do_du_lieu_rut_gon_20261016\\bieu_do_nckh.zip",
+  "archive_sha256": "9e13d55f57ddc7468d463111252da73a879c70546760001579bac481bf3d6419",
+  "archive_bytes": 4033742,
+  "figures": 9,
+  "png": 9,
+  "svg": 9,
+  "input_files": 4123,
+  "input_frames": 673000,
+  "observations_changed": false,
+  "missing_noise_figure": "Hình 5.4 / H17 lacks verified scenario data"
+}

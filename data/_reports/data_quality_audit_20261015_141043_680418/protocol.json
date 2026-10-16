@@ -1,0 +1,60 @@
+{
+  "root": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI",
+  "data": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\data",
+  "backup": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\data\\_archive\\data_quality_before_20261015_141043_680418",
+  "output": "D:\\Downloads\\NCKH\\STM32F4-vs-INMP441-AI\\STM32F4-vs-INMP441-AI\\data\\_reports\\data_quality_audit_20261015_141043_680418",
+  "seed": 20261015,
+  "status": "COMPLETE",
+  "registry_before_sha256": "99a5a84d24813eff47e6b8a41d213c5a4700e83c99c337f9feebba859d1f450c",
+  "protocol": {
+    "match_tolerance_deg": 15,
+    "source_angles_preserved": true,
+    "no_file_timestamps_used": true,
+    "no_synthetic_samples_added": true,
+    "statistical_seed_role": "Resampling only; never changes observation values",
+    "bootstrap_replicates": 2000,
+    "permutation_replicates": 1999,
+    "primary_unit": "Geometry cluster / recorded CSV, not individual overlapping frames",
+    "fdr_method": "Benjamini-Yekutieli across all valid inferential p-values",
+    "derived_columns_rule": "Only complete-count rows: one-to-one minimum total circular error; preserve any existing tied optimum. Partial-count native rows keep derived cells empty.",
+    "no_truth_based_correction_to_raw_directions": true,
+    "per_file_bootstrap_replicates": 499,
+    "group_bootstrap_replicates": 2000,
+    "case_bootstrap_replicates": 2000,
+    "maximum_acf_lag_for_block_selection": 30,
+    "small_group_rank_test_calibration": "Tie-aware label permutation",
+    "binary_runs_calibration": "Exact conditional distribution, two-sided distance from expectation",
+    "nominal_KW_family": "Reported separately with BY correction; not valid inference for repeated geometries"
+  },
+  "excluded": [
+    {
+      "path": "3sourceNOAI.zip",
+      "role": "Archive, preserved unchanged",
+      "sha256": "bbdcb84bccc8a531cafbbe2051bde0bea1cc016e2d35e1a1be1d9775db0a418d"
+    },
+    {
+      "path": "_archive",
+      "role": "Historical archive/report; excluded from active sample totals"
+    },
+    {
+      "path": "_processed",
+      "role": "Derived or scenario copy; excluded to avoid duplicate observations",
+      "csv_files": 788
+    },
+    {
+      "path": "_reports",
+      "role": "Historical archive/report; excluded from active sample totals"
+    },
+    {
+      "path": "_subsets",
+      "role": "Derived or scenario copy; excluded to avoid duplicate observations",
+      "csv_files": 7572
+    },
+    {
+      "path": "_synthetic",
+      "role": "Derived or scenario copy; excluded to avoid duplicate observations",
+      "csv_files": 49050
+    }
+  ],
+  "snapshot_manifest_sha256": "bad372f698cd4897bbf6cd46c57404d6b96a2ddd6093204c47615679c73bc76c"
+}

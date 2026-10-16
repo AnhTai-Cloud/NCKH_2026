@@ -1,0 +1,13 @@
+{
+  "files_cross_checked": 13782,
+  "extra_flag_counts": {},
+  "duplicate_bearing_frames": 8604,
+  "sensitivity_deltas": {
+    "tp_delta": -7176,
+    "fp_delta": -1428,
+    "full_delta": -7176,
+    "error_sum_delta": -91102
+  },
+  "no_observations_changed": true,
+  "sensitivity_is_analysis_only": true
+}

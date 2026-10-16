@@ -1,0 +1,3 @@
+# Cần khi thu UART hoặc xem radar. Phân tích CSV dùng thư viện chuẩn của Python.
+# visualize_doa.py dùng Tkinter/Tcl-Tk, không cần matplotlib; file đo không cần GUI.
+pyserial>=3.5

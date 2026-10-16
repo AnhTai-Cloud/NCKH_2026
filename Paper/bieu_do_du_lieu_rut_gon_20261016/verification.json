@@ -1,0 +1,97 @@
+{
+  "status": "VERIFIED",
+  "active_csv_files": 4123,
+  "frames": 673000,
+  "observations_and_last_write_times_preserved": true,
+  "registry_and_pdf_preserved": true,
+  "all_counts_reconcile": true,
+  "missing_condition_left_empty": true,
+  "png_images": 9,
+  "svg_images": 9,
+  "new_bootstrap_replicates_per_group": 2000,
+  "figure_dimensions": [
+    {
+      "id": "H14",
+      "width": 3099,
+      "height": 1184,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "H15",
+      "width": 3003,
+      "height": 2955,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "H16",
+      "width": 3195,
+      "height": 1131,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S01_chi_so_theo_cu_ly",
+      "width": 3627,
+      "height": 2307,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S02_phat_hien_du_nguon",
+      "width": 2859,
+      "height": 1131,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S03_2_nguon_theo_goc_tach",
+      "width": 3003,
+      "height": 2955,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S04_3_nguon_theo_goc_tach",
+      "width": 3003,
+      "height": 2955,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S05_khung_trong_va_recall",
+      "width": 2955,
+      "height": 2427,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    },
+    {
+      "id": "S06_quy_mo_va_do_phu",
+      "width": 3147,
+      "height": 1899,
+      "dpi": [
+        240.00459999999998,
+        240.00459999999998
+      ]
+    }
+  ],
+  "no_old_full_dataset_confidence_intervals_used": true,
+  "all_nine_figures_visually_reviewed": true
+}

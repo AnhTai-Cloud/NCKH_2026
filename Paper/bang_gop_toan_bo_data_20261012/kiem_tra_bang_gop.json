@@ -1,0 +1,40 @@
+{
+  "snapshot_at": "2026-10-12T21:32:06.093587+07:00",
+  "source_csv_files_unchanged": 8073,
+  "frames": 14354300,
+  "pooled_groups_verified": 13,
+  "all_origins_pooled_without_filter": true,
+  "source_paper_unchanged": true,
+  "other_55_original_pages_unchanged": true,
+  "output_pdf_pages": 59,
+  "modified_and_added_pages_visually_verified": [
+    51,
+    52,
+    53,
+    59
+  ],
+  "numeric_cells_match_json": true,
+  "native_scoring_crosschecks": 40,
+  "files_added_after_snapshot": [
+    "1sourceAI/0.4m/01_340dis04.csv",
+    "1sourceAI/0.4m/09_00dis04.csv",
+    "1sourceAI/0.4m/10_00dis04.csv",
+    "1sourceAI/0.4m/11_00dis04.csv",
+    "1sourceAI/0.4m/12_00dis04.csv",
+    "1sourceAI/0.4m/13_00dis04.csv",
+    "1sourceAI/0.4m/14_00dis04.csv",
+    "1sourceAI/0.4m/15_00dis04.csv",
+    "1sourceAI/0.4m/16_00dis04.csv"
+  ],
+  "figure_5_2_points_verified": 221,
+  "figure_5_2_source_csv_files": 454,
+  "figure_5_2_source_frames": 740400,
+  "figure_matches_table_count_budgets": true,
+  "figure_page_pdf": 53,
+  "figure_page_printed": "45a",
+  "figure_image_embedded": true,
+  "original_other_55_pages_unchanged": true,
+  "section_5_3_navigation_updated": true,
+  "figure_5_2_navigation_updated": true,
+  "latest_pdf_visuals_match_reviewed_pages": true
+}

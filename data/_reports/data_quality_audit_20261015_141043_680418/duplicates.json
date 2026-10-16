@@ -1,0 +1,1316 @@
+{
+  "exact_or_semantic_duplicate_groups": [
+    {
+      "kind": "sha256",
+      "hash": "76560e3ed552965eab736bb699177c0e2c7cc3b8e196ecefb575470be6173383",
+      "files": [
+        "3sourceAI/0.1m/01_60_210_270dis01.csv",
+        "3sourceNOAI/0.1m/01_60_210_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "e4db8671f84b978e3ff0414a7f6d75cbdcb571fcff9d994463f8a94c2e733222",
+      "files": [
+        "3sourceAI/0.1m/02_30_210_330dis01.csv",
+        "3sourceNOAI/0.1m/02_30_210_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "30ea9964fcacf6d8cf9fae7e34a71ac3347f53232de2b9e58c1691d2cc7b1d11",
+      "files": [
+        "3sourceAI/0.1m/03_150_240_300dis01.csv",
+        "3sourceNOAI/0.1m/03_150_240_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "dbdf792d1525ca759ce38117c5f7ebde609174395ccc61e19bce17f690a0982b",
+      "files": [
+        "3sourceAI/0.2m/01_150_210_300dis02.csv",
+        "3sourceNOAI/0.2m/01_150_210_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "92084e3882fd2fa66fcda295f938c09b837ddebff8972558f48305c1d23ad674",
+      "files": [
+        "3sourceAI/0.2m/02_60_120_330dis02.csv",
+        "3sourceNOAI/0.2m/02_60_120_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "f65a108c021de95f89a853e907e577f12f80590cd3fee0d6f2b4f9ea8153baaa",
+      "files": [
+        "3sourceAI/0.2m/03_30_60_330dis02.csv",
+        "3sourceNOAI/0.2m/03_30_60_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "94d722a9454ffdb161355f3c7ea6a49a2452da5ea90e269823a60bea8753fe66",
+      "files": [
+        "3sourceAI/0.2m/03_60_90_120dis02.csv",
+        "3sourceNOAI/0.2m/03_60_90_120dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "31badba17188a1eb7305eec7824d78bcb003ab7fd53752ab0516113965c67782",
+      "files": [
+        "3sourceAI/0.3m/01_90_120_210dis03.csv",
+        "3sourceNOAI/0.3m/01_90_120_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "738a4f747b8c5b35c23b7dab0a9a747621d854d1baac6954b6b3f9ddd1be17dd",
+      "files": [
+        "3sourceAI/0.4m/01_30_60_300dis04.csv",
+        "3sourceNOAI/0.4m/01_30_60_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "fefa37b60757ade6ffd6973cac5edaf05fea1b455234dfc1cfcb677a9a39008b",
+      "files": [
+        "3sourceAI/0.4m/03_30_210_270dis04.csv",
+        "3sourceNOAI/0.4m/03_30_210_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "sha256",
+      "hash": "02c6708d4a83e02f630693fb61f73100a3684f4c628dc7af3db72e4a9bfbc3e5",
+      "files": [
+        "3sourceAI/0.4m/03_60_210_300dis04.csv",
+        "3sourceNOAI/0.4m/03_60_210_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "73e4b54fcf287eae021afd83c45f3c84de239422897dd214f163f6d6ddbee59a",
+      "files": [
+        "3sourceAI/0.1m/01_60_210_270dis01.csv",
+        "3sourceNOAI/0.1m/01_60_210_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "80b8113ebc4827738e29eab61d40e7b160ed2ead8013b7cc79e9b6571ec8dbb5",
+      "files": [
+        "3sourceAI/0.1m/02_30_210_330dis01.csv",
+        "3sourceNOAI/0.1m/02_30_210_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "e4ab53e51c79ebadc93b900461f66e9c5ee7ed4bfa77cb055cac2d753bd3b478",
+      "files": [
+        "3sourceAI/0.1m/03_150_240_300dis01.csv",
+        "3sourceNOAI/0.1m/03_150_240_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "2059dbcfa63579f0934eadb0d0fd3182e5cc413a8eb74093976c3e38e2fec92d",
+      "files": [
+        "3sourceAI/0.2m/01_150_210_300dis02.csv",
+        "3sourceNOAI/0.2m/01_150_210_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "69d1801ef0327cf93bd33b169de9161f0ccf150e53da3e206976aaf7980cb4d5",
+      "files": [
+        "3sourceAI/0.2m/02_60_120_330dis02.csv",
+        "3sourceNOAI/0.2m/02_60_120_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "74b05d94b67a3e4a2a60fbe16ed262ab4b858f4fc58823b1d4837a7c989dd416",
+      "files": [
+        "3sourceAI/0.2m/03_30_60_330dis02.csv",
+        "3sourceNOAI/0.2m/03_30_60_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "2711f2f94dc001852273df0ecc671cbe319051f54ee2da02072d8f3f47b7078c",
+      "files": [
+        "3sourceAI/0.2m/03_60_90_120dis02.csv",
+        "3sourceNOAI/0.2m/03_60_90_120dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "4c19d223f485888ca3e603e0581e079891e4fe9dce3091df6a2f8ad3d7423062",
+      "files": [
+        "3sourceAI/0.3m/01_90_120_210dis03.csv",
+        "3sourceNOAI/0.3m/01_90_120_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "d8ecc01532f2148e2cf1c6e3a125e6eedb448efd7bc50ad25a0c7f1bea6468bc",
+      "files": [
+        "3sourceAI/0.4m/01_30_60_300dis04.csv",
+        "3sourceNOAI/0.4m/01_30_60_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "1b7dea7a2ba9a10975fc6851bf9e3a49e6d4bd8a8a3f7b88ff4f3ff151b00ec8",
+      "files": [
+        "3sourceAI/0.4m/03_30_210_270dis04.csv",
+        "3sourceNOAI/0.4m/03_30_210_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "semantic_sha256",
+      "hash": "96cec46341783078ee2a5fba78e3213a4378393cfff17427fc0691438bfa0088",
+      "files": [
+        "3sourceAI/0.4m/03_60_210_300dis04.csv",
+        "3sourceNOAI/0.4m/03_60_210_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "cfb1ce59b9d02543517b42731778ecbda64111f6c887575959c7c9630c3bb461",
+      "files": [
+        "3sourceAI/0.1m/01_60_210_270dis01.csv",
+        "3sourceNOAI/0.1m/01_60_210_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "6c1e0676416ede0511172f754e20845145ba28e27eed005cb8f19590682dae4f",
+      "files": [
+        "3sourceAI/0.1m/02_30_210_330dis01.csv",
+        "3sourceNOAI/0.1m/02_30_210_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "1e03f2785e0c9643f398003e0fd4677ef0fb08450477e7e93718c8a6fe1f7adc",
+      "files": [
+        "3sourceAI/0.1m/03_150_240_300dis01.csv",
+        "3sourceNOAI/0.1m/03_150_240_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "a056df65d3ae6b80f8c791eb4b3ac3df1ca2cc2b966349d6e442cf36a857aa5c",
+      "files": [
+        "3sourceAI/0.2m/01_150_210_300dis02.csv",
+        "3sourceNOAI/0.2m/01_150_210_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "3bccc36c5df96d4140daad287d271035b2680466490bbfccea750bc48b78d2f0",
+      "files": [
+        "3sourceAI/0.2m/02_60_120_330dis02.csv",
+        "3sourceNOAI/0.2m/02_60_120_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "eb3385eaf7f288769179c01220cf82612e4b3109f2ffc9745e4f5dad2f9929ba",
+      "files": [
+        "3sourceAI/0.2m/03_30_60_330dis02.csv",
+        "3sourceNOAI/0.2m/03_30_60_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "ffc1bb17c27fac7b7b37216362862f02143b3f3007d3ecf91f1686e03be59a8b",
+      "files": [
+        "3sourceAI/0.2m/03_60_90_120dis02.csv",
+        "3sourceNOAI/0.2m/03_60_90_120dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "b84a9ed66d4cd21c7e342e5fc780af6d90abf4bfd4540f7e5fa4f2ed72bfd1ed",
+      "files": [
+        "3sourceAI/0.3m/01_90_120_210dis03.csv",
+        "3sourceNOAI/0.3m/01_90_120_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "320354fe283e0a082a9133692100f4d3ff7ead08f6078f07000244c16e774efb",
+      "files": [
+        "3sourceAI/0.4m/01_30_60_300dis04.csv",
+        "3sourceNOAI/0.4m/01_30_60_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "8f1448977db9733304840a2ba31586cf572bedef6ea519f08d15f72a58d40d4b",
+      "files": [
+        "3sourceAI/0.4m/03_30_210_270dis04.csv",
+        "3sourceNOAI/0.4m/03_30_210_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "raw_sequence_sha256",
+      "hash": "f267603bb9cb18e461de6e162a0e1d29f1d0e60c12decd513c44ead30d743391",
+      "files": [
+        "3sourceAI/0.4m/03_60_210_300dis04.csv",
+        "3sourceNOAI/0.4m/03_60_210_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "1e69dc60a91139c9bc1c11d2aaf86ddd3666f0c57383b5fe08a066c57b7d95b7",
+      "files": [
+        "3sourceAI/0.1m/01_00_30_60dis01.csv",
+        "3sourceNOAI/0.1m/01_00_30_60dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0ae229ff16c3a2fc945c7e836edbfcea52aa4bcbfe3fe69524c86d9f0deb5b1f",
+      "files": [
+        "3sourceAI/0.1m/01_120_150_210dis01.csv",
+        "3sourceNOAI/0.1m/01_120_150_210dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e2f346a6de7f04ee50979c8959ded11d2d49c4a8c907fb4f7847570fc3ac3d3c",
+      "files": [
+        "3sourceAI/0.1m/01_60_210_270dis01.csv",
+        "3sourceNOAI/0.1m/01_60_210_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b65679e42123f6044dda67d5d0377c16fb6c2761d387659750802ac1593cd591",
+      "files": [
+        "3sourceAI/0.1m/01_90_120_270dis01.csv",
+        "3sourceNOAI/0.1m/01_90_120_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "14f8980a4dacd47ae068a273fddc0fc6558fc95670c9212e3837a21680066f03",
+      "files": [
+        "3sourceAI/0.1m/02_00_240_330dis01.csv",
+        "3sourceNOAI/0.1m/02_00_240_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "d21cefaad21b3686efbf14748fcd81be0e2f6562a57a9b1f96cfbc970774f672",
+      "files": [
+        "3sourceAI/0.1m/02_150_210_300dis01.csv",
+        "3sourceNOAI/0.1m/02_150_210_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b13d73abb9ad284f40bf52fabebe59b1e4bf80a15a49ec14394b10f5571f8fa0",
+      "files": [
+        "3sourceAI/0.1m/02_30_180_240dis01.csv",
+        "3sourceNOAI/0.1m/02_30_180_240dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "4c90bdf8161bcfa46f10c484e0402df2d3d160be4287daced06ec79c821c091e",
+      "files": [
+        "3sourceAI/0.1m/02_30_210_330dis01.csv",
+        "3sourceNOAI/0.1m/02_30_210_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "29d1ddce9f85519d69f0cc7a6d0c16cab7837ea67963ca0077060ebab47048e4",
+      "files": [
+        "3sourceAI/0.1m/02_60_120_180dis01.csv",
+        "3sourceNOAI/0.1m/02_60_120_180dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "3261764f695ba843e0254597a08e928d7ef97884ebb4287d4941041f41e32a68",
+      "files": [
+        "3sourceAI/0.1m/02_60_120_210dis01.csv",
+        "3sourceNOAI/0.1m/02_60_120_210dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "22a241b7a4538b1f316f94796b4833c4ca723ba04e042a493911af5f875b73e1",
+      "files": [
+        "3sourceAI/0.1m/02_60_150_240dis01.csv",
+        "3sourceNOAI/0.1m/02_60_150_240dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "5b4ae3e57e82c5f4e341246915b188f2ab8ec53618a7171048ee20654acf297a",
+      "files": [
+        "3sourceAI/0.1m/02_90_120_150dis01.csv",
+        "3sourceNOAI/0.1m/02_90_120_150dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "533267b552c1618db0ecd1e605d859945126d9449eada17a046aac3eeae7e389",
+      "files": [
+        "3sourceAI/0.1m/03_00_210_300dis01.csv",
+        "3sourceNOAI/0.1m/03_00_210_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "24e56f71b3fd6a7b03679add77a5064c122585eeab1840a7363ae2dcb1b483c6",
+      "files": [
+        "3sourceAI/0.1m/03_00_30_270dis01.csv",
+        "3sourceNOAI/0.1m/03_00_30_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "481d8f46eddd49a3a6f63cf5e50a23ba7637cb86d7b7a068ee21973cd7f09f51",
+      "files": [
+        "3sourceAI/0.1m/03_150_180_210dis01.csv",
+        "3sourceNOAI/0.1m/03_150_180_210dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "5ce342b34a7c3b14c25a35e4464ff657c91b054b97a29928664fcb58f2559285",
+      "files": [
+        "3sourceAI/0.1m/03_150_180_270dis01.csv",
+        "3sourceNOAI/0.1m/03_150_180_270dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "5e4277ba09dcd5729bbd34e68fda10ad2f12bb6edc251a0b838a6d15d0902631",
+      "files": [
+        "3sourceAI/0.1m/03_150_240_300dis01.csv",
+        "3sourceNOAI/0.1m/03_150_240_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0a7d25a6120e770b5d74836f71c85b88fbe8581aed2e9abcab9952ff410a6deb",
+      "files": [
+        "3sourceAI/0.1m/03_30_300_330dis01.csv",
+        "3sourceNOAI/0.1m/03_30_300_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e21fae2785cf171bfefb3fe9a46da9b7265729c06911f20120c4db8c64f2b934",
+      "files": [
+        "3sourceAI/0.1m/03_30_60_300dis01.csv",
+        "3sourceNOAI/0.1m/03_30_60_300dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "00fdc608f322d5d1e705f4bf43c4ac1464c7ceb9ddf18c699c25154b359181b7",
+      "files": [
+        "3sourceAI/0.1m/03_30_60_90dis01.csv",
+        "3sourceNOAI/0.1m/03_30_60_90dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e3977e6a6e576987188592c285afb00b057c86ed71c0d53fac47e12094b266b0",
+      "files": [
+        "3sourceAI/0.1m/03_60_90_330dis01.csv",
+        "3sourceNOAI/0.1m/03_60_90_330dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e23a1e19cbaeec514ceae1dcba44fa1a3bbdc57d0d9f0e4cf84288518b90b379",
+      "files": [
+        "3sourceAI/0.1m/03_90_180_210dis01.csv",
+        "3sourceNOAI/0.1m/03_90_180_210dis01.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0bf6cdfe236785cc5cc912f3492ddc39fbecca3409cd19f89b87e1eca4e0c426",
+      "files": [
+        "3sourceAI/0.2m/01_00_210_270dis02.csv",
+        "3sourceNOAI/0.2m/01_00_210_270dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "1032a6c3cb63d9d8cd95b5838034c5db88d3f29cac294ffbe0fc5aa3acd1d462",
+      "files": [
+        "3sourceAI/0.2m/01_00_30_180dis02.csv",
+        "3sourceNOAI/0.2m/01_00_30_180dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "92e87044a61a61936b90224f81864907315cb7aa8c37c5acbde0263c81eb451f",
+      "files": [
+        "3sourceAI/0.2m/01_150_210_300dis02.csv",
+        "3sourceNOAI/0.2m/01_150_210_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "85be9428da8d0edd118610a2815b8b7da33b7788978bf98fcc3c7329e9aa17bd",
+      "files": [
+        "3sourceAI/0.2m/01_150_300_330dis02.csv",
+        "3sourceNOAI/0.2m/01_150_300_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e0e4f550ac41c3c6f97225d141e231e387570bdbb99a298774c3bcf9788bd76f",
+      "files": [
+        "3sourceAI/0.2m/01_210_240_270dis02.csv",
+        "3sourceNOAI/0.2m/01_210_240_270dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "4dc7a5052e347a632b692c6fef0fd29a119ebc6276eeb47d7bfe049e01295794",
+      "files": [
+        "3sourceAI/0.2m/01_60_120_270dis02.csv",
+        "3sourceNOAI/0.2m/01_60_120_270dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "973fbe2a164896e71b567372b2cf8f4f87fb160e8dacf81c2f9088f9e67f9316",
+      "files": [
+        "3sourceAI/0.2m/01_60_240_330dis02.csv",
+        "3sourceNOAI/0.2m/01_60_240_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "ecb116274e4f7496f7f2403498ae6cdfd36b2410d4d05c0f12101295c78f864d",
+      "files": [
+        "3sourceAI/0.2m/01_90_120_300dis02.csv",
+        "3sourceNOAI/0.2m/01_90_120_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "5b03af07345cb78db92b12722f1f42a2b1f0b86681f9830cb29c962f66d05f68",
+      "files": [
+        "3sourceAI/0.2m/02_00_90_330dis02.csv",
+        "3sourceNOAI/0.2m/02_00_90_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "1617b33d5a96993bf03acc20c7c89e5995c4d5db558c679141aef2127c7cc8d9",
+      "files": [
+        "3sourceAI/0.2m/02_150_180_240dis02.csv",
+        "3sourceNOAI/0.2m/02_150_180_240dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0216e963ac6505fa4744e1fdd6a710ba17f790b2766e3fdcb95dd5a1bfb6e0e2",
+      "files": [
+        "3sourceAI/0.2m/02_210_240_270dis02.csv",
+        "3sourceNOAI/0.2m/02_210_240_270dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "ba9bac4a23c2f9586b29749daa2e32a3c19ec7b127032cf48964e4ee90f5cfcd",
+      "files": [
+        "3sourceAI/0.2m/02_30_60_120dis02.csv",
+        "3sourceNOAI/0.2m/02_30_60_120dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "c2738058ed6e50d6d35c580d28fe351cee99d2ce926744ff7fd47f686c7d3b3e",
+      "files": [
+        "3sourceAI/0.2m/02_60_120_330dis02.csv",
+        "3sourceNOAI/0.2m/02_60_120_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b0837d5cdcab3099e9cec7522188540f13b0c983fa770ed42d1244685b31ecb6",
+      "files": [
+        "3sourceAI/0.2m/02_60_90_180dis02.csv",
+        "3sourceNOAI/0.2m/02_60_90_180dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "9555a0fb440e72577aa9cc8b4742273de8c80f1d0e46131ab21211267ed7c21e",
+      "files": [
+        "3sourceAI/0.2m/03_00_300_330dis02.csv",
+        "3sourceNOAI/0.2m/03_00_300_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "91c2b6db185008318e1e619551b9a9bf0fedfef45d6a88f7629ce0570d0efa1c",
+      "files": [
+        "3sourceAI/0.2m/03_00_30_90dis02.csv",
+        "3sourceNOAI/0.2m/03_00_30_90dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "de6d0f59b79047cd14bfd1e917cc7b5797985fb550d6ad9575c5eb6d2797dae5",
+      "files": [
+        "3sourceAI/0.2m/03_120_150_330dis02.csv",
+        "3sourceNOAI/0.2m/03_120_150_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b019fb19a953a07110119520aef5c476ccc38a655919da5da7cadd3e9bdc5b27",
+      "files": [
+        "3sourceAI/0.2m/03_150_240_300dis02.csv",
+        "3sourceNOAI/0.2m/03_150_240_300dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "3871f3600ed514469175c254f21c651adb9dab6c9bdda85b0ebb48fc9a336755",
+      "files": [
+        "3sourceAI/0.2m/03_30_60_330dis02.csv",
+        "3sourceNOAI/0.2m/03_30_60_330dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "cdbd9e8201b8ce913ebca710a9fb2e1ab42672e1b9f51fe3d76c5919b286dcb5",
+      "files": [
+        "3sourceAI/0.2m/03_30_60_90dis02.csv",
+        "3sourceNOAI/0.2m/03_30_60_90dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "61b20f2ee53572b026a157ccb5485ac143961c25c35dd2825d30e5dadf6a6b03",
+      "files": [
+        "3sourceAI/0.2m/03_60_90_120dis02.csv",
+        "3sourceNOAI/0.2m/03_60_90_120dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "099a503e0519a9ccc703a369cc7ea2a95ad9b86b6dde391cbbc03753533b6eaf",
+      "files": [
+        "3sourceAI/0.2m/03_90_150_270dis02.csv",
+        "3sourceNOAI/0.2m/03_90_150_270dis02.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "cc41d100b76f0955e0c183e1f9a58fe5bc13179c2066c36f283babaa89b3bb8e",
+      "files": [
+        "3sourceAI/0.3m/01_00_180_270dis03.csv",
+        "3sourceNOAI/0.3m/01_00_180_270dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "47ddb6fa8e443c48a4403a0836d997e746c6f425f38ef651ac31297198c1a486",
+      "files": [
+        "3sourceAI/0.3m/01_180_240_270dis03.csv",
+        "3sourceNOAI/0.3m/01_180_240_270dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "5f2b16576492eddb333192309ac8df698a05a4df944eef60714787f64663dd5a",
+      "files": [
+        "3sourceAI/0.3m/01_210_240_330dis03.csv",
+        "3sourceNOAI/0.3m/01_210_240_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "dd700a70544b13ab9079ddd0487bee05685b265edc0eb43027121f23bd108723",
+      "files": [
+        "3sourceAI/0.3m/01_30_270_300dis03.csv",
+        "3sourceNOAI/0.3m/01_30_270_300dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b0b956a8d8886657028d5c6aea88ae0272e06cd57feaf5744f818e20097bb336",
+      "files": [
+        "3sourceAI/0.3m/01_30_270_330dis03.csv",
+        "3sourceNOAI/0.3m/01_30_270_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "13245b59545e1adacce95c57bbd73d4110ac4820d7d7a74279490d8e86cbbcf0",
+      "files": [
+        "3sourceAI/0.3m/01_90_120_210dis03.csv",
+        "3sourceNOAI/0.3m/01_90_120_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "c7b0d3da9dc662e2bfc6ea6a648b3a8db6159271cbff82b7e2f571bd509272ca",
+      "files": [
+        "3sourceAI/0.3m/01_90_180_210dis03.csv",
+        "3sourceNOAI/0.3m/01_90_180_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "7ebc05b3236336cdaeaedb0875c806a875b3610fd88d12c4d227339c6873fa75",
+      "files": [
+        "3sourceAI/0.3m/01_90_240_270dis03.csv",
+        "3sourceNOAI/0.3m/01_90_240_270dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0f26503c466e29b4937a2ed48a17aaa78d620314cd81c07af320b9f8194aaa9e",
+      "files": [
+        "3sourceAI/0.3m/02_00_120_330dis03.csv",
+        "3sourceNOAI/0.3m/02_00_120_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "8b6a6dd7dda137015414a19f798167a3e0e5bcec3ffde2950b8e157f19976981",
+      "files": [
+        "3sourceAI/0.3m/02_270_300_330dis03.csv",
+        "3sourceNOAI/0.3m/02_270_300_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "710d68e23b4f410dca021a08fcfbdfefc4466aa57c3f76a27a9dcc689104ea25",
+      "files": [
+        "3sourceAI/0.3m/02_30_60_120dis03.csv",
+        "3sourceNOAI/0.3m/02_30_60_120dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "bdc00939514cb1750d190c064eced14e3b0168a6f22aaffc863d5af3f14132bd",
+      "files": [
+        "3sourceAI/0.3m/02_60_150_330dis03.csv",
+        "3sourceNOAI/0.3m/02_60_150_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "37c4a02b79d92f0ea0924afa984f614586afa3d65c121ef7302a52d7d0420ac3",
+      "files": [
+        "3sourceAI/0.3m/02_90_120_180dis03.csv",
+        "3sourceNOAI/0.3m/02_90_120_180dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "3be683d3eb5b5096dd449a169019e6b8e3688ab2ac4129d0e324b7ce257b5dd2",
+      "files": [
+        "3sourceAI/0.3m/03_00_210_330dis03.csv",
+        "3sourceNOAI/0.3m/03_00_210_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "a41a35a5de0f5976beb8279785761585cdadfe0404b1b97b8a5710634f4ba758",
+      "files": [
+        "3sourceAI/0.3m/03_00_60_120dis03.csv",
+        "3sourceNOAI/0.3m/03_00_60_120dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "2751966580fe8ff2d9e350c7c8c349e03ff85559bd461566fda7d1a9a33a72f4",
+      "files": [
+        "3sourceAI/0.3m/03_120_150_270dis03.csv",
+        "3sourceNOAI/0.3m/03_120_150_270dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "82d78017d3761c0c93ffbe3cc388caf23df5cb5d44aaa3eee9627c4f34dab898",
+      "files": [
+        "3sourceAI/0.3m/03_150_210_300dis03.csv",
+        "3sourceNOAI/0.3m/03_150_210_300dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "325e4d837486b38a9954746eafa67564a131f56c1e87a2da0283e9b4b215faf8",
+      "files": [
+        "3sourceAI/0.3m/03_210_240_270dis03.csv",
+        "3sourceNOAI/0.3m/03_210_240_270dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "0500fbfe7a939523e921e1bd949ae40f3ddd6d3f279087f69759944671c3747e",
+      "files": [
+        "3sourceAI/0.3m/03_210_240_330dis03.csv",
+        "3sourceNOAI/0.3m/03_210_240_330dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "a82a972b74a959981d3d139f99959e55ab88a6042408e028be449e0180cbd9ad",
+      "files": [
+        "3sourceAI/0.3m/03_30_60_180dis03.csv",
+        "3sourceNOAI/0.3m/03_30_60_180dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "1d045f32c0c1c1d6de0aa7d719a2c2830e0ab545918554ecbdb4939b1ed85571",
+      "files": [
+        "3sourceAI/0.3m/03_30_60_300dis03.csv",
+        "3sourceNOAI/0.3m/03_30_60_300dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "7dfc4052a72c138389aef3e2b5f71264b8d431fc01a1c0c15d6fb59ae459ada1",
+      "files": [
+        "3sourceAI/0.3m/03_90_120_210dis03.csv",
+        "3sourceNOAI/0.3m/03_90_120_210dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e542f3d8de2b61eb9e1b211801f24d23e7a76870cad6fb038db9987f6dceeda7",
+      "files": [
+        "3sourceAI/0.3m/03_90_150_180dis03.csv",
+        "3sourceNOAI/0.3m/03_90_150_180dis03.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "63f2eb30cbb1f8629f5308f8e57cf015de95c3bc3015f4b1fb9e59b4b183cd53",
+      "files": [
+        "3sourceAI/0.4m/01_150_300_330dis04.csv",
+        "3sourceNOAI/0.4m/01_150_300_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "55c6ac1c7f77cc81f36b9f0e2575aab303ce4aa0f3cdd9b7d55f67e1824cb24a",
+      "files": [
+        "3sourceAI/0.4m/01_30_240_300dis04.csv",
+        "3sourceNOAI/0.4m/01_30_240_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "d1a8aceb3850ac5ab451ebf0a57ce7e83b517c988a97aed0f20a2002b6116b60",
+      "files": [
+        "3sourceAI/0.4m/01_30_60_300dis04.csv",
+        "3sourceNOAI/0.4m/01_30_60_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "1fb959d58ce5c7e31ff86d4be6a096afb15c475ee13018d13e75f7762ed7ed0a",
+      "files": [
+        "3sourceAI/0.4m/01_60_120_330dis04.csv",
+        "3sourceNOAI/0.4m/01_60_120_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "b116df45bb123d120dc0044e8841ab2db9a49fe31817824d06d8fe4624ff2c0e",
+      "files": [
+        "3sourceAI/0.4m/02_00_210_300dis04.csv",
+        "3sourceNOAI/0.4m/02_00_210_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "3a90264efa994d249ff4275b37f0926cd69cac9acebbfde04fb6b18b5b0f4924",
+      "files": [
+        "3sourceAI/0.4m/02_120_240_270dis04.csv",
+        "3sourceNOAI/0.4m/02_120_240_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "e91a85612f270ff24931b98354bd0398c91223a7042496c73bcbde3006982751",
+      "files": [
+        "3sourceAI/0.4m/02_150_270_330dis04.csv",
+        "3sourceNOAI/0.4m/02_150_270_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "7a593410c27ad7f0000e22ad067efc8f5e720c02f41c1903722e4703e1b2e717",
+      "files": [
+        "3sourceAI/0.4m/02_180_240_270dis04.csv",
+        "3sourceNOAI/0.4m/02_180_240_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "fce8dfd80a930cd5f417bae837decbb1eb78f1eea157e9d7cd25e7375eee830d",
+      "files": [
+        "3sourceAI/0.4m/02_30_90_330dis04.csv",
+        "3sourceNOAI/0.4m/02_30_90_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "faa124faf34fe6dd7e96e3c614fab0851ef609ecf727c2e7d446948d6101b6e8",
+      "files": [
+        "3sourceAI/0.4m/02_60_240_270dis04.csv",
+        "3sourceNOAI/0.4m/02_60_240_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "7c4614a611897e8ae545f2f4e48ed89d692f076c00d55bf8954567855a5b18a2",
+      "files": [
+        "3sourceAI/0.4m/03_120_150_240dis04.csv",
+        "3sourceNOAI/0.4m/03_120_150_240dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "6023b6906dbc3c71f6526101c8392d7f8f33536cdb6a9d6aff425028180f3835",
+      "files": [
+        "3sourceAI/0.4m/03_150_180_240dis04.csv",
+        "3sourceNOAI/0.4m/03_150_180_240dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "369471c0890fe789add6b951e478e4b0d863017bf8800ad170102370ea4e7c1b",
+      "files": [
+        "3sourceAI/0.4m/03_150_300_330dis04.csv",
+        "3sourceNOAI/0.4m/03_150_300_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "4c1b71be005aec8dd23af30149d429f76cda623c13ed8edfc862542c747c2f83",
+      "files": [
+        "3sourceAI/0.4m/03_180_210_240dis04.csv",
+        "3sourceNOAI/0.4m/03_180_210_240dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "d4683def07fae62de227cf4683050ea9f33e85ab5aafa5c49c05191b065f4082",
+      "files": [
+        "3sourceAI/0.4m/03_180_210_270dis04.csv",
+        "3sourceNOAI/0.4m/03_180_210_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "029ba4add9ccf8885107ff00fb316f56d566cdc224de43173c168b119b26520b",
+      "files": [
+        "3sourceAI/0.4m/03_210_240_330dis04.csv",
+        "3sourceNOAI/0.4m/03_210_240_330dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "373518c5a7bf375812bdbf295ca2f62d4488c7d787ead8b8bd2a24628105daac",
+      "files": [
+        "3sourceAI/0.4m/03_30_210_270dis04.csv",
+        "3sourceNOAI/0.4m/03_30_210_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "6cdad44e3c4e0f819b99986e449296d9766a0cffd6c0fdbb191a11f6c0e98d75",
+      "files": [
+        "3sourceAI/0.4m/03_30_60_120dis04.csv",
+        "3sourceNOAI/0.4m/03_30_60_120dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "d5773658d36e03f988e853711765b56e9caf18e6f56179afcc93e62f5e8a0318",
+      "files": [
+        "3sourceAI/0.4m/03_30_60_270dis04.csv",
+        "3sourceNOAI/0.4m/03_30_60_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "422c5327c4aa9c2693c9859b6d8b58f9242b27d2bed4ee67e2342b90253a13c4",
+      "files": [
+        "3sourceAI/0.4m/03_30_90_150dis04.csv",
+        "3sourceNOAI/0.4m/03_30_90_150dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "01c16fdd45dd51893d39cb9253463c068d4088cbe462eedac4f2b1b204ccf0be",
+      "files": [
+        "3sourceAI/0.4m/03_30_90_300dis04.csv",
+        "3sourceNOAI/0.4m/03_30_90_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "498a2eaf94fa9b602ede6117aee6d6ae6e1228c780da108d817427dab516c53f",
+      "files": [
+        "3sourceAI/0.4m/03_60_150_210dis04.csv",
+        "3sourceNOAI/0.4m/03_60_150_210dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "cb32f7a9ae52f0d5840b81212f4f57742e33e4c958c160238dfb0986bb0666db",
+      "files": [
+        "3sourceAI/0.4m/03_60_210_300dis04.csv",
+        "3sourceNOAI/0.4m/03_60_210_300dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    },
+    {
+      "kind": "normalized_tp_error_sequence_sha256",
+      "hash": "25b9dc45440540d902db29cc69d461c897080db45d3b547bf180e242ab365b8d",
+      "files": [
+        "3sourceAI/0.4m/03_90_240_270dis04.csv",
+        "3sourceNOAI/0.4m/03_90_240_270dis04.csv"
+      ],
+      "action": "RETAIN_ALL",
+      "interpretation": "Content overlap; not by itself proof of copying or simulation"
+    }
+  ],
+  "indexed_informative_windows": 1205545,
+  "shared_window_groups": 32246,
+  "expected_ai_control_window_groups": 32243,
+  "other_shared_window_groups": 3,
+  "files_with_shared_informative_windows": 5332,
+  "examples_other": [
+    {
+      "hash": "32a5aec77adcd8ce0b4040ed7876a2e0c030e02ca843c7b6b7a37428202dbc67",
+      "frames": 20,
+      "matches": [
+        {
+          "path": "1sourceNOAI/0.4m/02_30dis04.csv",
+          "row_start": 1370,
+          "row_end": 1389
+        },
+        {
+          "path": "1sourceNOAI/0.4m/08_30dis04.csv",
+          "row_start": 104,
+          "row_end": 123
+        }
+      ],
+      "interpretation": "SHARED_DIRECTIONS_REQUIRES_CONTEXT_NOT_PROOF_OF_FABRICATION",
+      "action": "RETAIN_ALL"
+    },
+    {
+      "hash": "3709a56a9ac96686b7c3d3a3d3b1f9616bdb6a9d0634d20999cc6a48d67b0af4",
+      "frames": 20,
+      "matches": [
+        {
+          "path": "3sourceAI/0.1m/02_00_60_180dis01.csv",
+          "row_start": 90,
+          "row_end": 109
+        },
+        {
+          "path": "3sourceNOAI/0.1m/02_00_60_180dis01.csv",
+          "row_start": 90,
+          "row_end": 109
+        },
+        {
+          "path": "3sourceNOAI/0.1m/04_00_60_180dis01.csv",
+          "row_start": 151,
+          "row_end": 170
+        }
+      ],
+      "interpretation": "SHARED_DIRECTIONS_REQUIRES_CONTEXT_NOT_PROOF_OF_FABRICATION",
+      "action": "RETAIN_ALL"
+    },
+    {
+      "hash": "abb88bde4023606bd2d196c83e719f06f83afcf5f52c1a4a52c1a5c9e55b653e",
+      "frames": 20,
+      "matches": [
+        {
+          "path": "1sourceAI/0.4m/03_30dis04.csv",
+          "row_start": 1913,
+          "row_end": 1932
+        },
+        {
+          "path": "1sourceNOAI/0.4m/08_30dis04.csv",
+          "row_start": 36,
+          "row_end": 55
+        }
+      ],
+      "interpretation": "SHARED_DIRECTIONS_REQUIRES_CONTEXT_NOT_PROOF_OF_FABRICATION",
+      "action": "RETAIN_ALL"
+    }
+  ],
+  "limitations": [
+    "20-frame fixed-grid windows plus winnowing of 20-frame rolling hashes in a 64-window span. Long exact overlaps of at least 83 frames are candidates regardless of offset; shorter unaligned overlaps can be missed.",
+    "Windows require at least five nonempty frames and five unique direction states; blank/constant segments are analysed separately as runs.",
+    "SHA-256 fingerprints compare direction sequences, not audio waveforms. Equal directions do not prove equal recorded sounds or a dishonest origin.",
+    "Paired AI/control simulations intentionally share their input. Such overlap is reported separately and never removed."
+  ]
+}

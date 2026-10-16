@@ -1,0 +1,99 @@
+{
+  "figures": [
+    {
+      "id": "H14",
+      "title": "Hình 5.1 · Sơ đồ bố trí nguồn",
+      "section": "paper",
+      "paper_ref": "Hình 5.1",
+      "caption": "Sơ đồ theo thiết kế, không phải ảnh hoặc hồ sơ xác nhận bố trí đã đo. Minh họa 0° theo +x và 90° theo +y; cần đối chiếu quy ước lắp đặt thực tế. Ba ví dụ cùng cự ly 20 cm.",
+      "png": "figures/H14.png",
+      "svg": "figures/H14.svg"
+    },
+    {
+      "id": "H15",
+      "title": "Hình 5.2 · MAE và Recall theo góc",
+      "section": "paper",
+      "paper_ref": "Hình 5.2",
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. Mỗi điểm gộp số đếm tại đúng góc/cự ly. Chọn 12 góc bước 30° theo kế hoạch; không làm mượt.",
+      "png": "figures/H15.png",
+      "svg": "figures/H15.svg"
+    },
+    {
+      "id": "H16",
+      "title": "Hình 5.3 · F1 theo khoảng cách",
+      "section": "paper",
+      "paper_ref": "Hình 5.3",
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. CI có điều kiện trên các cụm được giữ, không phải độ biến thiên của các phiên đo phần cứng độc lập. Không nội suy điểm hai nguồn Không AI tại 10 cm.",
+      "png": "figures/H16.png",
+      "svg": "figures/H16.svg"
+    },
+    {
+      "id": "S01_chi_so_theo_cu_ly",
+      "title": "Bổ sung · Bốn chỉ số theo cự ly",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. Hai chế độ có thể khác tập góc và điều kiện nền; đây là mô tả các nhóm hiện có, không phải đối chứng đã kiểm soát hoàn toàn.",
+      "png": "figures/S01_chi_so_theo_cu_ly.png",
+      "svg": "figures/S01_chi_so_theo_cu_ly.svg"
+    },
+    {
+      "id": "S02_phat_hien_du_nguon",
+      "title": "Bổ sung · Phát hiện đúng đủ hai/ba nguồn",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. TP=N khác với detected_count=N. Hai ô dùng thang tung khác nhau để đọc được tỷ lệ rất thấp của ba nguồn.",
+      "png": "figures/S02_phat_hien_du_nguon.png",
+      "svg": "figures/S02_phat_hien_du_nguon.svg"
+    },
+    {
+      "id": "S03_2_nguon_theo_goc_tach",
+      "title": "Bổ sung · 2 nguồn theo độ tách góc",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. Đường gộp từ số đếm; vùng P10–P90 là phân tán giữa bố trí góc, không phải CI. Chỉ vẽ vùng khi có ít nhất năm bố trí; không điền các góc tách thiếu dữ liệu.",
+      "png": "figures/S03_2_nguon_theo_goc_tach.png",
+      "svg": "figures/S03_2_nguon_theo_goc_tach.svg"
+    },
+    {
+      "id": "S04_3_nguon_theo_goc_tach",
+      "title": "Bổ sung · 3 nguồn theo độ tách góc",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. Đường gộp từ số đếm; vùng P10–P90 là phân tán giữa bố trí góc, không phải CI. Chỉ vẽ vùng khi có ít nhất năm bố trí; không điền các góc tách thiếu dữ liệu.",
+      "png": "figures/S04_3_nguon_theo_goc_tach.png",
+      "svg": "figures/S04_3_nguon_theo_goc_tach.svg"
+    },
+    {
+      "id": "S05_khung_trong_va_recall",
+      "title": "Bổ sung · Khung trống và Recall có điều kiện",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Tập CSV hiện có gồm mô phỏng và dữ liệu chưa xác minh; kết quả mô tả tập rút gọn. Nét đứt dùng mẫu số chỉ gồm khung có ít nhất một hướng. Đây không phải nhãn tiếng nói/im lặng hoặc chỉ số phân loại KEEP/NOISE.",
+      "png": "figures/S05_khung_trong_va_recall.png",
+      "svg": "figures/S05_khung_trong_va_recall.svg"
+    },
+    {
+      "id": "S06_quy_mo_va_do_phu",
+      "title": "Bổ sung · Số khung và độ phủ góc",
+      "section": "extra",
+      "paper_ref": null,
+      "caption": "Số đếm của tập đang hoạt động. Không cộng các bản sao lưu hay tập xử lý ngoài nhánh chính. Độ phủ và số khung không chứng minh độc lập giữa các lần thu.",
+      "png": "figures/S06_quy_mo_va_do_phu.png",
+      "svg": "figures/S06_quy_mo_va_do_phu.svg"
+    }
+  ],
+  "unavailable": [
+    {
+      "figure": "Hình 5.4 (H17)",
+      "status": "Chưa đủ dữ liệu đúng kịch bản",
+      "reason": "Cần hai chế độ ở 30 cm với một giọng nói/quạt 90°, hai giọng nói 0°/180° và quạt 90°, một giọng nói/bàn phím 90°, cùng nhật ký nền và hoạt động nguồn. CSV hiện tại không xác nhận được các kịch bản này."
+    },
+    {
+      "figure": "Histogram Hình 3.2 và đồ thị Chương 4",
+      "status": "Không tái tạo từ CSV hướng hiện tại",
+      "reason": "Cần các histogram trung gian, lịch sử huấn luyện hoặc vector/điểm dự đoán chuẩn tương ứng. Đây là loại đầu vào khác; các hình đã có trong PDF không được suy ngược thành dữ liệu mới."
+    }
+  ],
+  "inputs": "input_manifest.json",
+  "numerical_values": "plot_data.json"
+}

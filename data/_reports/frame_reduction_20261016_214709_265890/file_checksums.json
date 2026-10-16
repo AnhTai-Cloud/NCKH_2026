@@ -1,0 +1,23 @@
+{
+  "browser_verification.json": "e678aa8cbf03c73185ca2b8686f2f50c7a2d4513843576691d374754c835ed7a",
+  "comparison.json": "09aa4bc886340e21f50965c2f5cde9ba7be5ce969c612ac907e52742e4ba19ef",
+  "f1_before_after.png": "bbc754fc1ad6f02f88b26c9980a37969b338ddbe0e26ce500e6b10347240ece7",
+  "f1_before_after.svg": "ab8830fef55893d36469977f4e1defbe7a916014d018faf4bc2aa54436d738f3",
+  "file_metrics_after.json": "9c41b4ea8a712fc0f13dca073b78447fe95108d3e7dd15312393625df90b0ab8",
+  "final_result.json": "62707a1ba6dcf90d6abd744e929abd2ac8509133f652e126e9febab1ce4793af",
+  "index.html": "c9895338e9c2c28aebe1923575f2e61310b0415147038b724560301146952921",
+  "installation.json": "3df1ce32ef7dcd6aebb01e940e2eda3dcda3f1983298448ad9f943964800cad9",
+  "installation_log.jsonl": "cf8c1fa32839ee08a247708b7bd90ac8574ae4db8bffbfa69a8acdd483c979c5",
+  "native_reader_verification.json": "69a70e7fa8700506f350c9d86fab553a7ee7a4e19d71975134358256b259707b",
+  "noi_dung_dien_bao_cao.md": "1d283bdc795d410ba6ae94ccf7adb629a6e8ae7eea0f08973f0300326cd99fb5",
+  "README.md": "bda74cfaf476a6172c2feb067522e30cddc5ea7c85b479d259f5746a80a1a854",
+  "reproduce/author.mjs": "88c460fdb313fc9e709ad05c9373144288a0d411cf7aae6e1188468522e22f95",
+  "reproduce/check_report.mjs": "18e4f330db5fe75f20884202dd209d57854e453e93633238067b45fcbc684821",
+  "reproduce/native_verify.py": "262c2acd545849a0520e667daa45c8b69a51415ca08500f3be2406cbc2e1f418",
+  "reproduce/reduce.py": "b3a67011ff50566af644bca2753d6a0ae395208be2001deaa9a5b2a96f3febbf",
+  "reproduce/report.py": "9d76ddaac308f7acee55d5b0926c1cfe6a59ecd90f74959570ec224cc141d745",
+  "reproduce/snapshot_resume.json": "bd058b45f1b0c579629d113e8e864930fc88e5f226f06b015e4b8c209eaf2651",
+  "selection_plan.json": "760147365123d3a06d1199425935262d00ce4bd138d0ee9e7d3593856de082f8",
+  "staged_verification.json": "bb48e7a3f601782528e84c9dcaf0bd915d42049f536edeefba724365f70a0422",
+  "summary_after.json": "742e32dff19810fbf227e02fc3e3cd272eff718d3e124c37fcd475d5ffdaff62"
+}

@@ -1,0 +1,24 @@
+{
+  "main_csv_files_unchanged": 8061,
+  "new_noai_files_scored": 59,
+  "new_noai_frames": 5900,
+  "scenario_csv_files_rescored": 7548,
+  "scenario_count_budgets_preserved_by_distance": true,
+  "all_close_mean_trends_verified": true,
+  "original_paper_pdf_unchanged": true,
+  "assessment_pdf_pages": 6,
+  "native_main_files_checked": 40,
+  "native_scenario_files_checked": 9,
+  "markdown_figure_links_valid": true,
+  "new_files_added_after_assessment_snapshot": [
+    "1sourceAI/0.4m/01_180dis04.csv",
+    "1sourceAI/0.4m/01_20dis04.csv",
+    "1sourceAI/0.4m/02_180dis04.csv",
+    "1sourceAI/0.4m/02_20dis04.csv",
+    "1sourceAI/0.4m/03_180dis04.csv",
+    "1sourceAI/0.4m/04_180dis04.csv",
+    "1sourceAI/0.4m/05_180dis04.csv"
+  ],
+  "main_snapshot_at": "2026-10-12T21:22:18.446220+07:00",
+  "assessment_pdf_pages_visually_checked": 6
+}

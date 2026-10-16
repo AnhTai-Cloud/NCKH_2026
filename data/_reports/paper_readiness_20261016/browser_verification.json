@@ -1,0 +1,10 @@
+{
+  "desktop": true,
+  "mobile_no_overflow": true,
+  "tables_12_rows_each": true,
+  "source_filters": 4,
+  "missing_cells_preserved": true,
+  "images": 3,
+  "links_verified": true,
+  "javascript_errors": []
+}

@@ -1,0 +1,6 @@
+sample,distance_cm,detected_count,raw_angles,true_angle_1,true_angle_2,detected_angle_1,detected_angle_2,error_1,error_2,mean_error
+1,10.0,0,,120,240,,,,,
+2,10.0,1,278,120,240,,,,,
+3,10.0,1,278,120,240,,,,,
+4,10.0,1,278,120,240,,,,,
+5,10.0,1,278,120,240,,,,,

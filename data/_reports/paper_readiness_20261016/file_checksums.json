@@ -1,0 +1,21 @@
+{
+  "assessment.json": "a3b5e45607567ea881bf74e51a8804f2fdeab241b71f5e3ba0761d62a77d8ba2",
+  "browser_verification.json": "4ddf836bba59d077d753039adcefed40749fcc48293620ac6f17f3f074c1a762",
+  "figures/ba_nguon_phat_hien_dong_thoi.png": "caf331ddb51d50ace560bf78faf9caf23f78186a9721a52ab26198e74707509f",
+  "figures/ba_nguon_phat_hien_dong_thoi.svg": "b529ac5276d402aa8d7c4960387cb19df1ed772567e1437a62aef53e4384c200",
+  "figures/hinh_5_2_mot_nguon.png": "e75bee24fd1d120ccbc9fbed35576ad8f0701c2605776ec75262b03a57173de1",
+  "figures/hinh_5_2_mot_nguon.svg": "0ad850931c99cfd217499fa12b14b31171a5188644780c0344d56e76baa3c8e9",
+  "figures/hinh_5_3_f1_khoang_cach.png": "df944af685a1389986d72a5fd8c37a6b74a3b06d7e7e7cbfdadc01d7e7a08a99",
+  "figures/hinh_5_3_f1_khoang_cach.svg": "9c8d3c14d0d0816efa456ec09f71422c42359a5c11bab053b1a2cc9c8edacd16",
+  "index.html": "ef17ff0d757e1f2a3175ffe41ea96bd12ad41d9a3eec45c626ffb50a20b19c6c",
+  "inventory.json": "85903fdb05eecbeb5096c1c7fd3c755f936ba8fd5e5defbadda77be1de51f045",
+  "noi_dung_dien_bao_cao.md": "df338fef4e693ce9571726b878aa062a2bc15b66540b18d114c9d6c0dd8738e0",
+  "paper_evidence.json": "230f42b6b3676d9177bf760a800f371124030aa08b319de645e2a40e29c8218a",
+  "paper_readiness.json": "209e2ec929943a73aaa3db9a84e6fde0f692994c949defc4e8c151412eb832f1",
+  "README.md": "7d0c2ba8d47c7638a54870c3849a159dcc414b4d262ba3abdc4a1ec290c255a4",
+  "reproduce/check_report.mjs": "4bfdff981cfefa09842b745d87d474bba410744765e5ab470b5433cc8cafec81",
+  "reproduce/report.py": "4247a76b2c7bce3dd7f7affe268a640c235b35b65d5fae5188bc1c0d635f1256",
+  "reproduce/review.py": "5e50eddc4fc71fbce3c58452337a0dc4b36fc305ca5b8b05e6a973fd1030485d",
+  "reproduce/verify.py": "34179133995b2ec164051f778d6865751c8d6f83c263403cf32e146939f41a88",
+  "verification.json": "32dca450cfb5fd6ec7cac1a69c1a3cb871195f6df9d70be85cb4f145c26afe52"
+}

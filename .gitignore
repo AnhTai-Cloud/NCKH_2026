@@ -1,0 +1,36 @@
+# Local dependencies, temporary workspaces and Python caches
+/tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Keil build output and machine-specific IDE state
+/FFT/**/Objects/
+/FFT/**/Listings/
+/FFT/**/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.base@*
+
+# Original backups and alternative datasets remain on the acquisition machine
+/data/_archive/
+/data/_processed/
+/data/_subsets/
+/data/_synthetic/
+/data/*.zip
+
+# Publish the current reports and the full-data audit that preceded reduction
+/data/_reports/*
+!/data/_reports/data_quality_audit_20261015_141043_680418/
+!/data/_reports/paper_readiness_20261016/
+!/data/_reports/frame_reduction_20261016_214709_265890/
+
+# Large intermediate audit caches; final findings and provenance are retained
+/data/_reports/data_quality_audit_20261015_141043_680418/sequence_blocks.jsonl.gz
+/data/_reports/data_quality_audit_20261015_141043_680418/file_features_before.jsonl.gz
+/data/_reports/data_quality_audit_20261015_141043_680418/file_features_after.jsonl.gz
+/data/_reports/data_quality_audit_20261015_141043_680418/file_features_before.initial_pass.jsonl.gz
