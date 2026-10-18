@@ -65,8 +65,7 @@ loại âm; CSV DOA không chứa đủ nhãn âm thanh để đánh giá riêng
 | Mặc định build | `AI_ENABLE=0` |
 
 32 ms là thời lượng khối mẫu, không phải số đo độ trễ thực thi hay chu kỳ
-UART đã kiểm chứng. Cấu hình trong mã cũng không tự chứng minh mọi CSV cũ
-được thu bằng đúng phiên bản này.
+UART đã kiểm chứng.
 
 Nguồn: [main.c](FFT/B1/src/main.c), [mô hình C](FFT/B1/lib1/AI_Model.c),
 [trọng số và scaler](FFT/B1/lib1/ai_model_data.h).
@@ -90,15 +89,6 @@ phải số phiên thu độc lập. Trong 4.123 CSV có 6 file chỉ có tiêu 
 Cột CSV đếm 4.117 file có khung; 6 file chỉ có tiêu đề nằm ngoài các nhóm
 chỉ số trong bảng.
 
-Hai nhánh `0sourceAI` và `0sourceNOAI` hiện chưa có CSV. Các nhóm trên
-40.000 khung được rút về 35.000; nhóm nhỏ hơn giữ nguyên, không tạo mẫu bù.
-Hai nguồn Không AI tại 10 cm còn thiếu. Hai nguồn Có AI tại 40 cm chỉ có
-một cặp (120°, 240°), nên không đại diện cho toàn bộ bố trí hai nguồn.
-
-Quy tắc rút gọn chia theo bố trí góc × hồ sơ nguồn × nhóm thu, chọn file và
-đoạn liên tiếp bằng seed 20261016 trước khi đánh giá. Không chọn theo chỉ
-số. Góc, cự ly, số hướng và sai số của các dòng giữ lại không đổi; `sample`
-được đánh lại từ 1 trong các file bị cắt, có lưu khoảng dòng gốc trong JSON.
 
 ## Cách tính chỉ số
 
@@ -339,7 +329,6 @@ data/2sourceAI/          Hai nguồn Có AI
 data/2sourceNOAI/        Hai nguồn Không AI
 data/3sourceAI/          Ba nguồn Có AI
 data/3sourceNOAI/        Ba nguồn Không AI
-data/_data_sources.json Hồ sơ nguồn, checksum và lịch sử xử lý
 data/_reports/          Báo cáo kiểm định và rút gọn được đưa lên Git
 Paper/                  PDF, đánh giá và ảnh cho bài báo
 AI.md                   Định hướng triển khai cũ
@@ -356,40 +345,8 @@ sample,distance_cm,detected_count,raw_angles,true_angle_1,true_angle_2,detected_
 Các cột góc ghép/sai số chỉ được điền khi `detected_count=N`; chương trình
 đánh giá vẫn dùng `raw_angles` để tính TP trên cả khung thiếu/thừa nguồn.
 Tên `01_00_90dis02.csv` biểu diễn lần 01, hai góc 0°/90° và mã cự ly 20 cm.
-Giữ kèm hồ sơ JSON khi chuyển CSV sang nơi khác.
 
-## Kiểm định, nguồn gốc và khả năng tái lập
 
-| Báo cáo | Phạm vi |
-| --- | --- |
-| [Rút gọn và so sánh trước–sau](data/_reports/frame_reduction_20261016_214709_265890/index.html) | 4.123 CSV, 673.000 khung hiện tại; nhật ký chọn/cắt và checksum |
-| [Bộ hình và dữ liệu vẽ](Paper/bieu_do_du_lieu_rut_gon_20261016/index.html) | 9 hình; manifest đối chiếu CSV; khoảng bootstrap trên tập rút gọn |
-| [Kiểm định toàn bộ trước rút gọn](data/_reports/data_quality_audit_20261015_141043_680418/index.html) | 13.782 CSV, 16.216.648 khung lịch sử; kiểm định phân phối/phụ thuộc và nhật ký sửa |
-| [Đối chiếu báo cáo trước rút gọn](data/_reports/paper_readiness_20261016/index.html) | Bằng chứng theo bảng/hình; số liệu quy mô cũ |
 
-Các phép kiểm định ở báo cáo cũ có điều chỉnh nhiều so sánh; p-value lớn
-không xác nhận dữ liệu là đo thật. CI/p-value của tập đầy đủ không được
-tái sử dụng cho tập con. Các báo cáo cũ trong `Paper` mô tả phiên bản tại
-thời điểm tạo; cần ưu tiên snapshot hiện tại khi lấy số cho README.
 
-<details>
-<summary>Phạm vi lưu trên Git và giới hạn chạy lại phân tích lịch sử</summary>
 
-Bản gốc, bản sao lưu, tập mô phỏng thay thế, thư viện cài tạm và kết quả
-build Keil vẫn giữ tại máy ban đầu, không đưa lên Git. Bốn tệp trung gian
-lớn của lần kiểm định cũ được bỏ khỏi Git: `sequence_blocks.jsonl.gz`,
-`file_features_before.jsonl.gz`, `file_features_after.jsonl.gz` và
-`file_features_before.initial_pass.jsonl.gz`. Kết quả cuối, cảnh báo,
-kiểm định, mã phân tích và nhật ký thay đổi vẫn được giữ. Checksum lịch
-sử có thể liệt kê cả tệp trung gian không có trong repository.
-
-Các thư mục `reproduce` lưu mã của lần phân tích gốc; một số bước cần
-snapshot đầy đủ và runtime/đường dẫn trên máy ban đầu. Không thể chạy lại
-mọi phân tích lịch sử chỉ từ tập hiện tại. Đường dẫn tuyệt đối trong hồ
-sơ chỉ nơi lưu bản gốc, không phải tệp có sẵn sau khi clone.
-
-Git giữ nguyên byte của các tệp để bảo toàn checksum. Thời gian checkout
-không được dùng làm bằng chứng về thời điểm thu hay nguồn gốc. Lần tổng
-hợp README này chỉ chỉnh tài liệu; không sửa CSV, metadata nguồn hay ảnh.
-
-</details>
